@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cicd-test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cicd-test/static/js/main.28517528.chunk.js",
-    "main.js.map": "/cicd-test/static/js/main.28517528.chunk.js.map",
+    "main.js": "/cicd-test/static/js/main.9d65e08b.chunk.js",
+    "main.js.map": "/cicd-test/static/js/main.9d65e08b.chunk.js.map",
     "runtime-main.js": "/cicd-test/static/js/runtime-main.c21ce398.js",
     "runtime-main.js.map": "/cicd-test/static/js/runtime-main.c21ce398.js.map",
     "static/js/2.729cbb42.chunk.js": "/cicd-test/static/js/2.729cbb42.chunk.js",
     "static/js/2.729cbb42.chunk.js.map": "/cicd-test/static/js/2.729cbb42.chunk.js.map",
     "index.html": "/cicd-test/index.html",
-    "precache-manifest.b7edf25a1d0c6235b6a989c7bd8e6f9e.js": "/cicd-test/precache-manifest.b7edf25a1d0c6235b6a989c7bd8e6f9e.js",
+    "precache-manifest.1adb0c41fedd27e4533781f324c3854d.js": "/cicd-test/precache-manifest.1adb0c41fedd27e4533781f324c3854d.js",
     "service-worker.js": "/cicd-test/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/cicd-test/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.729cbb42.chunk.js.LICENSE.txt": "/cicd-test/static/js/2.729cbb42.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c21ce398.js",
     "static/js/2.729cbb42.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.28517528.chunk.js"
+    "static/js/main.9d65e08b.chunk.js"
   ]
 }
