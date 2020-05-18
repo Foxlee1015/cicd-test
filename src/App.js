@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        gh-pages 패키지 설치 및 설정 없이 자동 배포 가능!
         </p>
         <a
           className="App-link"
